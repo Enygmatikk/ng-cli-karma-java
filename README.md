@@ -2,6 +2,7 @@
 
 Docker Image based on trion ng cli karma with the addition to openjdk11 to run sonar after karm testing.
 
+
 Original credits
 ----------------
 
